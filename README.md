@@ -84,10 +84,7 @@ Payment distribution was led by Shopify Payments, followed by PayPal and Amazon 
 
 
 
-## Interpretation
+## Key Insights
 
-The dashboard highlights that even within a short sales window, meaningful insights can be drawn about purchasing behavior and business performance.  
 Repeat customers accounted for nearly half of all transactions, demonstrating moderate retention and engagement.  
 Sales volume was balanced across multiple product types and payment options, illustrating a diversified e-commerce portfolio.
-
-This project was completed as part of a data analytics coursework exercise to apply practical visualization and reporting methods to real-world business data.
